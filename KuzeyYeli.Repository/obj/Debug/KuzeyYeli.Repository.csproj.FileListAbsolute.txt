@@ -1,0 +1,12 @@
+C:\Users\RAMAZAN\Desktop\KuzeyYeli\KuzeyYeli.Repository\bin\Debug\KuzeyYeli.Repository.dll.config
+C:\Users\RAMAZAN\Desktop\KuzeyYeli\KuzeyYeli.Repository\bin\Debug\KuzeyYeli.Repository.dll
+C:\Users\RAMAZAN\Desktop\KuzeyYeli\KuzeyYeli.Repository\bin\Debug\KuzeyYeli.Repository.pdb
+C:\Users\RAMAZAN\Desktop\KuzeyYeli\KuzeyYeli.Repository\bin\Debug\EntityFramework.dll
+C:\Users\RAMAZAN\Desktop\KuzeyYeli\KuzeyYeli.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\RAMAZAN\Desktop\KuzeyYeli\KuzeyYeli.Repository\bin\Debug\KuzeyYeli.Entity.dll
+C:\Users\RAMAZAN\Desktop\KuzeyYeli\KuzeyYeli.Repository\bin\Debug\KuzeyYeli.Entity.pdb
+C:\Users\RAMAZAN\Desktop\KuzeyYeli\KuzeyYeli.Repository\bin\Debug\EntityFramework.xml
+C:\Users\RAMAZAN\Desktop\KuzeyYeli\KuzeyYeli.Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\RAMAZAN\Desktop\KuzeyYeli\KuzeyYeli.Repository\obj\Debug\KuzeyYeli.Repository.csprojResolveAssemblyReference.cache
+C:\Users\RAMAZAN\Desktop\KuzeyYeli\KuzeyYeli.Repository\obj\Debug\KuzeyYeli.Repository.dll
+C:\Users\RAMAZAN\Desktop\KuzeyYeli\KuzeyYeli.Repository\obj\Debug\KuzeyYeli.Repository.pdb

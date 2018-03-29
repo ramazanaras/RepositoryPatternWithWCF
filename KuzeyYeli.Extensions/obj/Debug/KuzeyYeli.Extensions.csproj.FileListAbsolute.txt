@@ -1,0 +1,4 @@
+C:\Users\RAMAZAN\Desktop\KuzeyYeli\KuzeyYeli.Extensions\bin\Debug\KuzeyYeli.Extensions.dll
+C:\Users\RAMAZAN\Desktop\KuzeyYeli\KuzeyYeli.Extensions\bin\Debug\KuzeyYeli.Extensions.pdb
+C:\Users\RAMAZAN\Desktop\KuzeyYeli\KuzeyYeli.Extensions\obj\Debug\KuzeyYeli.Extensions.dll
+C:\Users\RAMAZAN\Desktop\KuzeyYeli\KuzeyYeli.Extensions\obj\Debug\KuzeyYeli.Extensions.pdb

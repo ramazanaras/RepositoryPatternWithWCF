@@ -1,0 +1,16 @@
+C:\Users\RAMAZAN\Desktop\KuzeyYeli\KuzeyYeli.WCFService\bin\KuzeyYeli.WCFService.dll.config
+C:\Users\RAMAZAN\Desktop\KuzeyYeli\KuzeyYeli.WCFService\bin\KuzeyYeli.WCFService.dll
+C:\Users\RAMAZAN\Desktop\KuzeyYeli\KuzeyYeli.WCFService\bin\KuzeyYeli.WCFService.pdb
+C:\Users\RAMAZAN\Desktop\KuzeyYeli\KuzeyYeli.WCFService\bin\KuzeyYeli.DTO.dll
+C:\Users\RAMAZAN\Desktop\KuzeyYeli\KuzeyYeli.WCFService\bin\KuzeyYeli.Entity.dll
+C:\Users\RAMAZAN\Desktop\KuzeyYeli\KuzeyYeli.WCFService\bin\KuzeyYeli.Extensions.dll
+C:\Users\RAMAZAN\Desktop\KuzeyYeli\KuzeyYeli.WCFService\bin\EntityFramework.dll
+C:\Users\RAMAZAN\Desktop\KuzeyYeli\KuzeyYeli.WCFService\bin\KuzeyYeli.DTO.pdb
+C:\Users\RAMAZAN\Desktop\KuzeyYeli\KuzeyYeli.WCFService\bin\KuzeyYeli.Entity.pdb
+C:\Users\RAMAZAN\Desktop\KuzeyYeli\KuzeyYeli.WCFService\bin\KuzeyYeli.Extensions.pdb
+C:\Users\RAMAZAN\Desktop\KuzeyYeli\KuzeyYeli.WCFService\bin\EntityFramework.xml
+C:\Users\RAMAZAN\Desktop\KuzeyYeli\KuzeyYeli.WCFService\obj\Debug\KuzeyYeli.WCFService.csprojResolveAssemblyReference.cache
+C:\Users\RAMAZAN\Desktop\KuzeyYeli\KuzeyYeli.WCFService\obj\Debug\KuzeyYeli.WCFService.dll
+C:\Users\RAMAZAN\Desktop\KuzeyYeli\KuzeyYeli.WCFService\obj\Debug\KuzeyYeli.WCFService.pdb
+C:\Users\RAMAZAN\Desktop\KuzeyYeli\KuzeyYeli.WCFService\bin\KuzeyYeli.Repository.dll
+C:\Users\RAMAZAN\Desktop\KuzeyYeli\KuzeyYeli.WCFService\bin\KuzeyYeli.Repository.pdb

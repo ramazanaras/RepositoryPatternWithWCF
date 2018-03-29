@@ -1,0 +1,53 @@
+Repository katmaný veritabanýndan veri çeken katman
+Service katmaný arayüzle iletiþimi saðlar.
+Service Repositoryden veriyi alcak.Repositoryde entity frameworkten veriyi alýp Service'e verecek.Service katmaný veriyi DTO'ya dönüþtürüp arayüze verecek.
+
+Service katmaný Repositoryden aldýðý entityleri DTO'ya dönüþtürüp arayüze DTO nesneleri taþýr.
+
+KuzeyYeli.Entity katmanýna manage nugettan entityframeworkü yüklüyoruz daha sonra Reverse Enginerrin code first yaparak veritabanýnýn modelini ekliyoruz.
+
+Repository katmanýna Entity katmanýný referencelara ekliyoruz.
+
+
+Repository katmanýna manage nugettan entityframeworkü yüklüyoruz  .(Context.Set<>() metodunun çýkmasý için)
+
+WCFSErvice katmaný için WCF SErvice Application projesi oluþturuyoruz
+
+
+
+Web Serviste Entity framework te serializasyon sýrasýnda runtime serialization hatasý falan çýkýyordu.Çünkü Entity projesinde sýnýflarda virtual propertisinde dolayý serilize edilemiyordu..bizde DTO katmaný yaparak sorunu çözüyoruz.Yani sýnýflarýn WebServisi ile dýþarýya açýlabilmesi içni DTO katmaný yapmalýyýz.
+
+Service katmaný  entity nesnesini DTO'ya dönüþtürür.
+Service katmanýnýn referanslarýna  DTO katmnýný ekliyoruz.
+
+Service katmanýnýn referanslarýna  Extensions katmnýný ekliyoruz.
+
+Service katmanýnýn referanslarýna  Entity katmnýný ekliyoruz.
+Service katmanýnýn referanslarýna  REpository katmnýný ekliyoruz.
+
+UnitTest projesine DTO,Entity, Extension, Repository,Service'i   referanslara ekle.
+
+
+Servisi kullanabilmek için WCF servisinde UrunService'a sað týklayýp view in browser diyelim .maksat IIS çalýþþsýn Servisi sunsun.
+http://localhost:5556/UrunService.svc?wsdl
+daha sonra WinArayuz katmanýna Service referansý ekleyip yukarýdaki linki yapýþtýrýyoruz.
+
+
+
+Hata!
+Additional information: No connection string named 'KuzeyYeliContext' could be found in the application config file. 
+Çözümü:
+WcfService katmanýndaki webconfige yapýþtýr
+<connectionStrings>
+    <add name="KuzeyYeliContext" connectionString="Data Source=.;Initial Catalog=KuzeyYeli;Integrated Security=True;MultipleActiveResultSets=True"
+      providerName="System.Data.SqlClient" />
+  </connectionStrings>
+
+
+
+BENZETME :)
+Context Depodur.Domates patates orda
+Repository yemeði hazýrlayan aþçýdýr.Yemeði üretir.
+Repository yemeði tabaða koyar DTO þeklinde
+Service ise arayüze yemeði taþýr.
+Asýl iþi yapan aslýnda Repository katmanýdýr.

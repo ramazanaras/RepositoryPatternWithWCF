@@ -1,0 +1,4 @@
+C:\Users\RAMAZAN\Desktop\KuzeyYeli\KuzeyYeli.DTO\bin\Debug\KuzeyYeli.DTO.dll
+C:\Users\RAMAZAN\Desktop\KuzeyYeli\KuzeyYeli.DTO\bin\Debug\KuzeyYeli.DTO.pdb
+C:\Users\RAMAZAN\Desktop\KuzeyYeli\KuzeyYeli.DTO\obj\Debug\KuzeyYeli.DTO.dll
+C:\Users\RAMAZAN\Desktop\KuzeyYeli\KuzeyYeli.DTO\obj\Debug\KuzeyYeli.DTO.pdb

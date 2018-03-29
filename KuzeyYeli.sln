@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KuzeyYeli.Entity", "KuzeyYeli.Entity\KuzeyYeli.Entity.csproj", "{4B68B773-0398-4C60-AB3C-FA6062C1111F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KuzeyYeli.Repository", "KuzeyYeli.Repository\KuzeyYeli.Repository.csproj", "{6A6B0A28-E8DD-4941-803E-9B8CD90190F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KuzeyYeli.WCFService", "KuzeyYeli.WCFService\KuzeyYeli.WCFService.csproj", "{65F8ACA4-6D96-46CB-9480-6D341599A46F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KuzeyYeli.DTO", "KuzeyYeli.DTO\KuzeyYeli.DTO.csproj", "{A14BBA5C-50FB-42C7-9176-820F0C4DAF0D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KuzeyYeli.Extensions", "KuzeyYeli.Extensions\KuzeyYeli.Extensions.csproj", "{8A63259F-61F5-454C-82BB-05678C5F6BF1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KuzeyYeli.Test", "KuzeyYeli.Test\KuzeyYeli.Test.csproj", "{DC43FBCC-3736-4F81-9C2F-20A401CCC842}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KuzeyYeli.WinArayuz", "KuzeyYeli.WinArayuz\KuzeyYeli.WinArayuz.csproj", "{042D36F1-978C-4AD0-B321-D3737796ED09}"
+	ProjectSection(ProjectDependencies) = postProject
+		{65F8ACA4-6D96-46CB-9480-6D341599A46F} = {65F8ACA4-6D96-46CB-9480-6D341599A46F}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4B68B773-0398-4C60-AB3C-FA6062C1111F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B68B773-0398-4C60-AB3C-FA6062C1111F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B68B773-0398-4C60-AB3C-FA6062C1111F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B68B773-0398-4C60-AB3C-FA6062C1111F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A6B0A28-E8DD-4941-803E-9B8CD90190F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A6B0A28-E8DD-4941-803E-9B8CD90190F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A6B0A28-E8DD-4941-803E-9B8CD90190F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A6B0A28-E8DD-4941-803E-9B8CD90190F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65F8ACA4-6D96-46CB-9480-6D341599A46F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65F8ACA4-6D96-46CB-9480-6D341599A46F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65F8ACA4-6D96-46CB-9480-6D341599A46F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65F8ACA4-6D96-46CB-9480-6D341599A46F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A14BBA5C-50FB-42C7-9176-820F0C4DAF0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A14BBA5C-50FB-42C7-9176-820F0C4DAF0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A14BBA5C-50FB-42C7-9176-820F0C4DAF0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A14BBA5C-50FB-42C7-9176-820F0C4DAF0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A63259F-61F5-454C-82BB-05678C5F6BF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A63259F-61F5-454C-82BB-05678C5F6BF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A63259F-61F5-454C-82BB-05678C5F6BF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A63259F-61F5-454C-82BB-05678C5F6BF1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC43FBCC-3736-4F81-9C2F-20A401CCC842}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC43FBCC-3736-4F81-9C2F-20A401CCC842}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC43FBCC-3736-4F81-9C2F-20A401CCC842}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC43FBCC-3736-4F81-9C2F-20A401CCC842}.Release|Any CPU.Build.0 = Release|Any CPU
+		{042D36F1-978C-4AD0-B321-D3737796ED09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{042D36F1-978C-4AD0-B321-D3737796ED09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{042D36F1-978C-4AD0-B321-D3737796ED09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{042D36F1-978C-4AD0-B321-D3737796ED09}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

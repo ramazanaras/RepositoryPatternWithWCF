@@ -1,0 +1,9 @@
+C:\Users\RAMAZAN\Desktop\KuzeyYeli\KuzeyYeli.WinArayuz\bin\Debug\KuzeyYeli.WinArayuz.exe.config
+C:\Users\RAMAZAN\Desktop\KuzeyYeli\KuzeyYeli.WinArayuz\bin\Debug\KuzeyYeli.WinArayuz.exe
+C:\Users\RAMAZAN\Desktop\KuzeyYeli\KuzeyYeli.WinArayuz\bin\Debug\KuzeyYeli.WinArayuz.pdb
+C:\Users\RAMAZAN\Desktop\KuzeyYeli\KuzeyYeli.WinArayuz\obj\Debug\KuzeyYeli.WinArayuz.csprojResolveAssemblyReference.cache
+C:\Users\RAMAZAN\Desktop\KuzeyYeli\KuzeyYeli.WinArayuz\obj\Debug\KuzeyYeli.WinArayuz.Form1.resources
+C:\Users\RAMAZAN\Desktop\KuzeyYeli\KuzeyYeli.WinArayuz\obj\Debug\KuzeyYeli.WinArayuz.Properties.Resources.resources
+C:\Users\RAMAZAN\Desktop\KuzeyYeli\KuzeyYeli.WinArayuz\obj\Debug\KuzeyYeli.WinArayuz.csproj.GenerateResource.Cache
+C:\Users\RAMAZAN\Desktop\KuzeyYeli\KuzeyYeli.WinArayuz\obj\Debug\KuzeyYeli.WinArayuz.exe
+C:\Users\RAMAZAN\Desktop\KuzeyYeli\KuzeyYeli.WinArayuz\obj\Debug\KuzeyYeli.WinArayuz.pdb

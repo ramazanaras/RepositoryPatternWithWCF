@@ -1,0 +1,17 @@
+C:\Users\RAMAZAN\Desktop\KuzeyYeli\KuzeyYeli.Test\bin\Debug\KuzeyYeli.Test.dll
+C:\Users\RAMAZAN\Desktop\KuzeyYeli\KuzeyYeli.Test\bin\Debug\KuzeyYeli.Test.pdb
+C:\Users\RAMAZAN\Desktop\KuzeyYeli\KuzeyYeli.Test\bin\Debug\KuzeyYeli.DTO.dll
+C:\Users\RAMAZAN\Desktop\KuzeyYeli\KuzeyYeli.Test\bin\Debug\KuzeyYeli.Entity.dll
+C:\Users\RAMAZAN\Desktop\KuzeyYeli\KuzeyYeli.Test\bin\Debug\KuzeyYeli.Extensions.dll
+C:\Users\RAMAZAN\Desktop\KuzeyYeli\KuzeyYeli.Test\bin\Debug\KuzeyYeli.Repository.dll
+C:\Users\RAMAZAN\Desktop\KuzeyYeli\KuzeyYeli.Test\bin\Debug\KuzeyYeli.WCFService.dll
+C:\Users\RAMAZAN\Desktop\KuzeyYeli\KuzeyYeli.Test\bin\Debug\EntityFramework.dll
+C:\Users\RAMAZAN\Desktop\KuzeyYeli\KuzeyYeli.Test\bin\Debug\KuzeyYeli.DTO.pdb
+C:\Users\RAMAZAN\Desktop\KuzeyYeli\KuzeyYeli.Test\bin\Debug\KuzeyYeli.Entity.pdb
+C:\Users\RAMAZAN\Desktop\KuzeyYeli\KuzeyYeli.Test\bin\Debug\KuzeyYeli.Extensions.pdb
+C:\Users\RAMAZAN\Desktop\KuzeyYeli\KuzeyYeli.Test\bin\Debug\KuzeyYeli.Repository.pdb
+C:\Users\RAMAZAN\Desktop\KuzeyYeli\KuzeyYeli.Test\bin\Debug\KuzeyYeli.WCFService.pdb
+C:\Users\RAMAZAN\Desktop\KuzeyYeli\KuzeyYeli.Test\bin\Debug\EntityFramework.xml
+C:\Users\RAMAZAN\Desktop\KuzeyYeli\KuzeyYeli.Test\obj\Debug\KuzeyYeli.Test.csprojResolveAssemblyReference.cache
+C:\Users\RAMAZAN\Desktop\KuzeyYeli\KuzeyYeli.Test\obj\Debug\KuzeyYeli.Test.dll
+C:\Users\RAMAZAN\Desktop\KuzeyYeli\KuzeyYeli.Test\obj\Debug\KuzeyYeli.Test.pdb
